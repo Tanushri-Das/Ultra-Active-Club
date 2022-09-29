@@ -34,7 +34,7 @@ const Questions = () => {
         <p>
           The UseEffect Hook allows you to perform side effects in your
           components.Without loading data useEffect hook allow fetching
-          data,directly updating the DOM and timers.UeseEfect hook accepts two
+          data,directly updating the DOM and timers.UeseEffect hook accepts two
           arguments.The second arghument is optional.
         </p>
       </div>
