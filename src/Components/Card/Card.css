@@ -29,6 +29,7 @@ line-height: 25px;
 }
 .btn-cart:hover{
   background-color: orange;
+  cursor: pointer;
 }
 .btn-text{
     margin-right: 5px;
