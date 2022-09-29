@@ -106,7 +106,7 @@ const Studies = () => {
       </div>
 
       <div className="asked-questions">
-        <h1>Frequently asked questions</h1>
+        <h1 className="frequently-text">Frequently asked questions</h1>
         <Questions></Questions>
       </div>
     </div>
