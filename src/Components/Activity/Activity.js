@@ -10,8 +10,10 @@ const Activity = () => {
 
   return (
     <Col>
-      <Col xs={6} className="activity-btn">
-        <Button onClick={() => setShow(true)}>Activity Completed</Button>
+      <Col xs={6}>
+        <Button className="activity-btn" onClick={() => setShow(true)}>
+          Activity Completed
+        </Button>
       </Col>
       <Col xs={6}>
         <Toast onClose={() => setShow(false)} show={show} delay={2000} autohide>
