@@ -1,0 +1,18 @@
+
+.activity-btn{
+    background-color: slateblue;
+    padding: 15px 0px;
+    font-size: 18px;
+    color: white;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 92%;
+}
+.activity-body {
+    border: 2px solid cadetblue;
+    color: #fff;
+    background-color: rgba(144, 238, 144, 0.774);
+    /* padding: 5%; */
+    font-size: 16px;
+}

@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "img": "https://c8.alamy.com/comp/PF3PC9/desktop-source-code-and-technology-background-developer-or-programer-with-coding-and-programming-wallpaper-by-computer-language-and-source-code-com-PF3PC9.jpg",
+      "name": "Coding",
+      "time": 30
+    },
+    {
+      "id": "2",
+      "img": "https://i.ytimg.com/vi/f02mOEt11OQ/maxresdefault.jpg",
+      "name": "Learning From Youtube",
+      "time": 40
+    },
+    {
+      "id": "3",
+      "img": "https://thumbs.dreamstime.com/b/word-writing-text-problem-solving-business-concept-process-finding-solutions-to-difficult-complex-issues-photo-157733034.jpg",
+      "name": "Problem Solving",
+      "time": 50
+    },
+    {
+      "id": "4",
+      "img": "https://www.designyourway.net/blog/wp-content/uploads/2018/12/programming-wallpaper7-700x525.jpg",
+      "name": "Practice Coding",
+      "time":35
+    },
+    {
+      "id": "5",
+      "img": "https://media-exp1.licdn.com/dms/image/C560DAQHAZQTmuuRihg/learning-public-crop_288_512/0/1627585438271?e=2147483647&v=beta&t=3JZ70zMxZHnaI2Euj60nF-scNrmsTeb8NGI71Rq6phw",
+      "name": "Learning From Google",
+      "time": 40
+    },
+    {
+      "id": "6",
+      "img": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_922649082_398318.jpg",
+      "name": "Reading Documentation",
+      "time": 30
+    }
+  ]
