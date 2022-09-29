@@ -43,7 +43,7 @@ const Studies = () => {
             <FontAwesomeIcon icon={faBook} className="myicon"></FontAwesomeIcon>
             <h1>Study Schedules</h1>
           </div>
-          <h2>Select today’s schedules </h2>
+          <h2>Select Today’s Schedules </h2>
           <div className="card-container">
             {cards.map((card) => (
               <Card
