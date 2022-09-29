@@ -41,7 +41,7 @@ const Studies = () => {
         <div className="left-side">
           <div className="name-container">
             <FontAwesomeIcon icon={faBook} className="myicon"></FontAwesomeIcon>
-            <h1>Study Schedules</h1>
+            <h1 className="study">Study Schedules</h1>
           </div>
           <h2>Select Today’s Schedules </h2>
           <div className="card-container">
