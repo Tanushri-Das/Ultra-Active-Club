@@ -36,8 +36,11 @@ body{
     border-radius: 13px;
     margin-right: 2px;
 }
+.break-text{
+    text-align: left;
 
-.break-text,.details{
+}
+.details{
     text-align: left;
     padding-left: 15px;
 }
