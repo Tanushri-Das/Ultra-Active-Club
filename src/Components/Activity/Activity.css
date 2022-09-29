@@ -11,10 +11,11 @@
     width:80%;
 }
 .activity-body {
-    border: 2px solid cadetblue;
+    border: 2px solid darkred;
     color: #fff;
-    background-color: rgba(144, 238, 144, 0.774);
+    background-color: mediumaquamarine;
     font-size: 16px;
+    padding: 5%;
 }
 @media screen and (max-width:576px) {
     .activity-btn{
