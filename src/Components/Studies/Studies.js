@@ -57,7 +57,7 @@ const Studies = () => {
         <div className="right-side">
           <h1>Tanushri das</h1>
           <p className="location">Location : Bangladesh</p>
-          <p>Age : 22</p>
+          <p className="age">Age : 22</p>
           <div>
             <h2 className="break-text">Add A Break</h2>
             <div className="break-btn">
