@@ -6,3 +6,9 @@
     font-weight: bold;
     margin-left: 70px;
 }
+@media screen and (max-width:576px) {
+    .study-time{
+        
+        width: 92%;
+    }
+}

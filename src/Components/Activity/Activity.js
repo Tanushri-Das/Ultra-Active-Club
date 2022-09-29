@@ -18,7 +18,7 @@ const Activity = () => {
       <Col xs={6}>
         <Toast onClose={() => setShow(false)} show={show} delay={2000} autohide>
           <Toast.Body className="activity-body">
-            Successfully you have done your activities
+            Successfully !!! You have done your activities .
           </Toast.Body>
         </Toast>
       </Col>

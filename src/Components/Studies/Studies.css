@@ -89,4 +89,13 @@ body{
         border-radius: 5px;
         padding: 10px 18px;
     }
+    .right-side{
+        
+        height: 710px;
+        
+    }
+    .breaktime-text{
+        width: 92%;
+
+    }
 }
