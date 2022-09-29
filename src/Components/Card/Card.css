@@ -14,8 +14,6 @@
 .card-name{
     font-family: 'Lato';
 font-style: normal;
-font-weight: 400;
-font-size: 21px;
 line-height: 25px;
     margin-top: 5px;
 }
@@ -38,6 +36,10 @@ line-height: 25px;
 .button{
     display: flex;
     justify-content: center;
+}
+.card-info{
+    font-size: 22px;
+    font-weight:700;
 }
 @media screen and (max-width:576px) {
     .card{

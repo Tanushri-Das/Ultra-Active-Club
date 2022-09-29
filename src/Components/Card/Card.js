@@ -8,7 +8,7 @@ const Card = ({ card, handleAddToList }) => {
   return (
     <div className="card">
       <img src={img} alt="" />
-      <div>
+      <div className="card-info">
         <h4 className="card-name">{name}</h4>
         <p>Time required : {time}s</p>
       </div>
