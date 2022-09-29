@@ -55,7 +55,7 @@ const Studies = () => {
           </div>
         </div>
         <div className="right-side">
-          <h1>Tanushri das</h1>
+          <h1>Tanushri Das</h1>
           <p className="location">Location : Bangladesh</p>
           <p className="age">Age : 22</p>
           <div>
